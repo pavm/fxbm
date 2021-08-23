@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /mail_handler.php
+
+sitemap: https://fxbrokermarket.com/sitemap.xml
